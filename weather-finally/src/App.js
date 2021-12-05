@@ -59,7 +59,7 @@ function App() {
           </div>
           <div>
       <footer>
-        <a href="https://github.com/ROBYN13Y/react-weather-app">
+        <a href="https://github.com/jwiergowska/my-weather-app-project/tree/master/weather-finally">
           Open-Sourced Code
         </a>{" "}
         | Julia Wiergowska
